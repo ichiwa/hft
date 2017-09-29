@@ -6,5 +6,6 @@ git clone git@github.com:ichiwa/hft.git
 ```
 
 ```
-jt -t onedork -f inputmono -N -T
+jt -t grade3  -f inputmono -N -T
+jupyter notebook
 ```
